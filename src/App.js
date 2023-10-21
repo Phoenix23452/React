@@ -30,7 +30,7 @@ function App() {
   ];
   return (
     <div>
-      <h1> Lets get started! </h1>
+      <h2> Lets get started! </h2>
       <Expenses
          {...expenses}
       />
